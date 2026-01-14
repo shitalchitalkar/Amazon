@@ -1,0 +1,4 @@
+Table: public.users
+Table: public.user_roles
+Table: public.roles
+Table: public.permissions
